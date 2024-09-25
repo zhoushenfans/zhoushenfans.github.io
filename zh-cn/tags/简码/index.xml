@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>简码 on ZhouShen</title>
+    <link>https://zhoushenfans.github.io/zh-cn/tags/%E7%AE%80%E7%A0%81/</link>
+    <description>Recent content in 简码 on ZhouShen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2024 ZhouShen</copyright>
+    <atom:link href="https://zhoushenfans.github.io/zh-cn/tags/%E7%AE%80%E7%A0%81/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>简码</title>
+      <link>https://zhoushenfans.github.io/zh-cn/docs/shortcodes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhoushenfans.github.io/zh-cn/docs/shortcodes/</guid>
+      <description>除了所有默认 Hugo 简码 之外，Blowfish 还添加了一些额外的功</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://zhoushenfans.github.io/docs/shortcodes/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>
