@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://zhoushenfans.github.io/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://zhoushenfans.github.io/zh-cn/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://zhoushenfans.github.io/"
+    />
+  </url>
+  <url>
     <loc>https://zhoushenfans.github.io/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -75,21 +90,6 @@
       rel="alternate"
       hreflang="en"
       href="https://zhoushenfans.github.io/tags/"
-    />
-  </url>
-  <url>
-    <loc>https://zhoushenfans.github.io/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://zhoushenfans.github.io/zh-cn/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://zhoushenfans.github.io/"
     />
   </url>
 </urlset>
