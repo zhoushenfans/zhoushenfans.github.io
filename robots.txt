@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhoushenfans.github.io/sitemap.xml
